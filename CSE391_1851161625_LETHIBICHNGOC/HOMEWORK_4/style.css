@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+}
+.right{
+    text-align: center;
+    width: 70%;
+}
+.left{
+    width:30%;
+}
