@@ -1,0 +1,38 @@
+*{
+    margin-left: 0px;
+}
+#text1{
+    margin-top: 339px;
+    margin-left: 50px;
+    color: white;
+}
+#text2{
+    font-size: 19px;
+}
+#img1{
+    text-align: right;
+    margin-top: 129px;
+}
+#navlogo{
+    margin:auto 50px;
+}
+#nav{
+    margin: 20px;
+}
+#textbl{
+    margin-top:200px ;
+}
+#brackgroud1{
+    background-image: url(img/HeroBrackgroud.png);
+    background-repeat: no-repeat;
+}
+#brackgroud2{
+    margin-top: 200px ;
+}
+#brackgroud3{
+    background-image: url(img/SectionBackground.png) ;
+    margin-top: 0;
+}
+#img3{
+    margin-top: 80px;
+}
