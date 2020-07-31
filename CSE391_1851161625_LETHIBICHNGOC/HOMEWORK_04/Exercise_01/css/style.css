@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+#square {
+    top: 43%;
+    margin-top: 20px;
+    position: absolute;
+    left: 47%;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+#circle {
+    background-color: blue;
+    position: relative;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
